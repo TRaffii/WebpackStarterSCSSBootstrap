@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "bootstrap-loader": "^1.0.10",
+    "bootstrap-sass": "^3.3.6",
     "extract-text-webpack-plugin": "^1.0.1"
   }
 }
